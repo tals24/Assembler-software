@@ -1,0 +1,57 @@
+#######################################################
+General errors - first pass of file- test1.as
+#######################################################
+#######################################################
+Translate Instructions errors - second pass of file- test1.as
+#######################################################
+No errors in file- test1.as
+
+
+#######################################################
+General errors - first pass of file- test2.as
+#######################################################
+file- test2.as, line- 1:: NUMBER OF REGISTER ARE WRONG! r9 
+file- test2.as, line- 6:: There is to many comma!
+file- test2.as, line- 7:: INVALD LBL "STR[3]" 
+file- test2.as, line- 7:: There is no comma!
+file- test2.as, line- 8:: invalid operand 
+file- test2.as, line- 12:: the code is "mov#5," iligel
+file- test2.as, line- 13:: Invald number!
+file- test2.as, line- 14:: there is no macro with this name -  "--9" 
+file- test2.as, line- 15:: there is no macro with this name -  "len" 
+file- test2.as, line- 16:: there is string without " at the end of string   
+file- test2.as, line- 17:: there is no macro with this name -  "22A" 
+#######################################################
+Translate Instructions errors - second pass of file- test2.as
+#######################################################
+file- test2.as, line- 1::	No valid source method accepted 
+file- test2.as, line- 4::there is no this lbl STR[TAL]- in the sym tbl 
+file- test2.as, line- 4::there is no this lbl STR[1]- in the sym tbl 
+file- test2.as, line- 9::there is no this lbl "K"- in the sym tbl 
+file- test2.as, line- 12:: invalid number of operands
+#######################################################
+General errors - first pass of file- test3.as
+#######################################################
+file- test3.as, line- 0:: there is no macro with this name -  ".string" 
+file- test3.as, line- 1:: there is no macro with this name -  ".string" 
+file- test3.as, line- 2:: there is no macro with this name -  ".data" 
+file- test3.as, line- 3:: there is string without "   
+file- test3.as, line- 4:: there is string without "   
+file- test3.as, line- 5:: there is no macro with this name -  ".string" 
+file- test3.as, line- 6:: positive immediate too large to fit in 12 bits 					 
+file- test3.as, line- 7:: negative immediate too large to fit in 12 bits 					 
+file- test3.as, line- 8:: there is string without " at the end of string   
+file- test3.as, line- 9:: there is string without " at the end of string   
+file- test3.as, line- 10:: there is string without "   
+file- test3.as, line- 11:: there is string without " at the end of string   
+file- test3.as, line- 12:: invalid operand 
+file- test3.as, line- 13:: the code is "1label:" iligel
+file- test3.as, line- 15:: invalid operand 
+file- test3.as, line- 18:: there is no macro with this name -  "%" 
+file- test3.as, line- 19:: there is no macro with this name -  "@@" 
+#######################################################
+Translate Instructions errors - second pass of file- test3.as
+#######################################################
+file- test3.as, line- 14:: invalid number of operands
+file- test3.as, line- 16:: invalid number of operands
+file- test3.as, line- 17:: invalid number of operands

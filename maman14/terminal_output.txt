@@ -1,0 +1,14 @@
+Now compiling "test1.as"
+translate......
+Finished successfully!
+create ob file....
+
+Now compiling "test2.as"
+translate......
+Finished with errors.
+
+Now compiling "test3.as"
+translate......
+Finished with errors.
+
+Done.
