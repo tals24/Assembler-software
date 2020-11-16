@@ -1,2 +1,2 @@
 Project for the Open University "Laboratory in Systems Programming" course.
-Assembler software, for assembly language to be defined later. The project will be written in C
+Assembler software for assembly language to be defined By the Course coordinator The project was written in C 
