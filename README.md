@@ -25,7 +25,7 @@ The assembly maintains a table who have all the information about the symbol and
 ```
 
 
-## The assembler run twice on the file.
+## 2-Iterations Algorithm
 
 
 
