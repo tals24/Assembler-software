@@ -21,15 +21,7 @@ The assembly maintains a table who have all the information about the symbol and
   a sentence to declare a symbolic name that can be defined that represents a numerical constant
  
 # directive
-  ariables initialization: strings, characters, integers and arrays.
-  This sentence tell the assembler what to do when he run on the source code.
-  The sentence doesn’t make code but he actuly can do a memory allocations and also initializing variables
-  There some type of directive sentence: 
-    Data - allocate numbers in the memory in a specific address   
-    String – allocatea sequence of words and init to “ascii” in the memory 
-    Entry – allows a code file located elsewhere to use a label
-    Extrn – allow to use a label that located in elsewhere
-
+  variables initialization: strings, characters, integers and arrays.
 ```
 
 
